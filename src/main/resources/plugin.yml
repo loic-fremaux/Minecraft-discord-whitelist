@@ -1,0 +1,4 @@
+name: DiscordWhitelist
+author: Loïc Frémaux
+version: 0.0.1
+main: fr.lfremaux.discord_whitelist.Whitelister
